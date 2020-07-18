@@ -1,0 +1,7 @@
+{
+  "name": "draftApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
