@@ -1,7 +1,8 @@
 {
-  "name": "draftApp",
+  "name": "Bmi++",
   "integrations": {
     "capacitor": {}
   },
-  "type": "react"
+  "type": "react",
+  "id": "e8126086"
 }
